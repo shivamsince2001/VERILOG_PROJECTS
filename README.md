@@ -1,2 +1,15 @@
-# VERILOG_PROJECTS
-Verilog HDL projects including combinational, sequential circuits, FSMs, and testbenches. Designed and simulated using Xilinx Vivado
+# Verilog Projects
+
+This repository contains my Verilog HDL design projects and testbenches created during my learning and practice.  
+Each project demonstrates concepts in digital design, synthesis, and simulation.
+
+## 🔧 Tools Used
+- Xilinx Vivado
+- ModelSim / QuestaSim
+- Icarus Verilog
+
+## 🧩 Projects Included
+
+
+## 📈 Goal
+To strengthen my understanding of Verilog and digital design fundamentals, preparing for FPGA and VLSI roles.
