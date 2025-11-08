@@ -5,8 +5,6 @@ Each project demonstrates concepts in digital design, synthesis, and simulation.
 
 ## 🔧 Tools Used
 - Xilinx Vivado
-- ModelSim / QuestaSim
-- Icarus Verilog
 
 ## 🧩 Projects Included
 
